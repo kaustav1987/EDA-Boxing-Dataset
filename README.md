@@ -1,1 +1,1 @@
-Title : EDA for the Boxing-Dataset between Boxer A and Boxer B.
+Title : EDA for the Boxing-Dataset .
